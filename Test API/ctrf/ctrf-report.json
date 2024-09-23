@@ -1,0 +1,236 @@
+{
+  "results": {
+    "tool": {
+      "name": "playwright"
+    },
+    "summary": {
+      "tests": 12,
+      "passed": 12,
+      "failed": 0,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "start": 1727073795009,
+      "stop": 1727073797495,
+      "suites": 0
+    },
+    "tests": [
+      {
+        "name": "API POST Request User",
+        "status": "passed",
+        "duration": 712,
+        "start": 1727073795,
+        "stop": 1727073796,
+        "rawStatus": "passed",
+        "tags": [],
+        "type": "e2e",
+        "filePath": "D:\\BEER\\Resume\\BEER\\TTSS\\Playwright API\\tests\\api_test.spec.js",
+        "retries": 0,
+        "flaky": false,
+        "steps": [],
+        "suite": "chromium > api_test.spec.js",
+        "extra": {
+          "annotations": []
+        }
+      },
+      {
+        "name": "API GET Request User",
+        "status": "passed",
+        "duration": 164,
+        "start": 1727073795,
+        "stop": 1727073795,
+        "rawStatus": "passed",
+        "tags": [],
+        "type": "e2e",
+        "filePath": "D:\\BEER\\Resume\\BEER\\TTSS\\Playwright API\\tests\\api_test.spec.js",
+        "retries": 0,
+        "flaky": false,
+        "steps": [],
+        "suite": "chromium > api_test.spec.js",
+        "extra": {
+          "annotations": []
+        }
+      },
+      {
+        "name": "API PUT Request User",
+        "status": "passed",
+        "duration": 710,
+        "start": 1727073795,
+        "stop": 1727073796,
+        "rawStatus": "passed",
+        "tags": [],
+        "type": "e2e",
+        "filePath": "D:\\BEER\\Resume\\BEER\\TTSS\\Playwright API\\tests\\api_test.spec.js",
+        "retries": 0,
+        "flaky": false,
+        "steps": [],
+        "suite": "chromium > api_test.spec.js",
+        "extra": {
+          "annotations": []
+        }
+      },
+      {
+        "name": "API DELETE Request User",
+        "status": "passed",
+        "duration": 786,
+        "start": 1727073795,
+        "stop": 1727073796,
+        "rawStatus": "passed",
+        "tags": [],
+        "type": "e2e",
+        "filePath": "D:\\BEER\\Resume\\BEER\\TTSS\\Playwright API\\tests\\api_test.spec.js",
+        "retries": 0,
+        "flaky": false,
+        "steps": [],
+        "suite": "chromium > api_test.spec.js",
+        "extra": {
+          "annotations": []
+        }
+      },
+      {
+        "name": "API POST Request User",
+        "status": "passed",
+        "duration": 670,
+        "start": 1727073795,
+        "stop": 1727073796,
+        "rawStatus": "passed",
+        "tags": [],
+        "type": "e2e",
+        "filePath": "D:\\BEER\\Resume\\BEER\\TTSS\\Playwright API\\tests\\api_test.spec.js",
+        "retries": 0,
+        "flaky": false,
+        "steps": [],
+        "suite": "firefox > api_test.spec.js",
+        "extra": {
+          "annotations": []
+        }
+      },
+      {
+        "name": "API GET Request User",
+        "status": "passed",
+        "duration": 672,
+        "start": 1727073795,
+        "stop": 1727073796,
+        "rawStatus": "passed",
+        "tags": [],
+        "type": "e2e",
+        "filePath": "D:\\BEER\\Resume\\BEER\\TTSS\\Playwright API\\tests\\api_test.spec.js",
+        "retries": 0,
+        "flaky": false,
+        "steps": [],
+        "suite": "firefox > api_test.spec.js",
+        "extra": {
+          "annotations": []
+        }
+      },
+      {
+        "name": "API PUT Request User",
+        "status": "passed",
+        "duration": 653,
+        "start": 1727073795,
+        "stop": 1727073796,
+        "rawStatus": "passed",
+        "tags": [],
+        "type": "e2e",
+        "filePath": "D:\\BEER\\Resume\\BEER\\TTSS\\Playwright API\\tests\\api_test.spec.js",
+        "retries": 0,
+        "flaky": false,
+        "steps": [],
+        "suite": "firefox > api_test.spec.js",
+        "extra": {
+          "annotations": []
+        }
+      },
+      {
+        "name": "API DELETE Request User",
+        "status": "passed",
+        "duration": 672,
+        "start": 1727073795,
+        "stop": 1727073796,
+        "rawStatus": "passed",
+        "tags": [],
+        "type": "e2e",
+        "filePath": "D:\\BEER\\Resume\\BEER\\TTSS\\Playwright API\\tests\\api_test.spec.js",
+        "retries": 0,
+        "flaky": false,
+        "steps": [],
+        "suite": "firefox > api_test.spec.js",
+        "extra": {
+          "annotations": []
+        }
+      },
+      {
+        "name": "API POST Request User",
+        "status": "passed",
+        "duration": 701,
+        "start": 1727073796,
+        "stop": 1727073796,
+        "rawStatus": "passed",
+        "tags": [],
+        "type": "e2e",
+        "filePath": "D:\\BEER\\Resume\\BEER\\TTSS\\Playwright API\\tests\\api_test.spec.js",
+        "retries": 0,
+        "flaky": false,
+        "steps": [],
+        "suite": "webkit > api_test.spec.js",
+        "extra": {
+          "annotations": []
+        }
+      },
+      {
+        "name": "API GET Request User",
+        "status": "passed",
+        "duration": 227,
+        "start": 1727073796,
+        "stop": 1727073797,
+        "rawStatus": "passed",
+        "tags": [],
+        "type": "e2e",
+        "filePath": "D:\\BEER\\Resume\\BEER\\TTSS\\Playwright API\\tests\\api_test.spec.js",
+        "retries": 0,
+        "flaky": false,
+        "steps": [],
+        "suite": "webkit > api_test.spec.js",
+        "extra": {
+          "annotations": []
+        }
+      },
+      {
+        "name": "API PUT Request User",
+        "status": "passed",
+        "duration": 631,
+        "start": 1727073796,
+        "stop": 1727073797,
+        "rawStatus": "passed",
+        "tags": [],
+        "type": "e2e",
+        "filePath": "D:\\BEER\\Resume\\BEER\\TTSS\\Playwright API\\tests\\api_test.spec.js",
+        "retries": 0,
+        "flaky": false,
+        "steps": [],
+        "suite": "webkit > api_test.spec.js",
+        "extra": {
+          "annotations": []
+        }
+      },
+      {
+        "name": "API DELETE Request User",
+        "status": "passed",
+        "duration": 631,
+        "start": 1727073796,
+        "stop": 1727073797,
+        "rawStatus": "passed",
+        "tags": [],
+        "type": "e2e",
+        "filePath": "D:\\BEER\\Resume\\BEER\\TTSS\\Playwright API\\tests\\api_test.spec.js",
+        "retries": 0,
+        "flaky": false,
+        "steps": [],
+        "suite": "webkit > api_test.spec.js",
+        "extra": {
+          "annotations": []
+        }
+      }
+    ]
+  }
+}
